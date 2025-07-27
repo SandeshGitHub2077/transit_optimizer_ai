@@ -1,0 +1,8 @@
+pandas
+requests
+openpyxl
+python-dotenv
+folium
+streamlit
+streamlit-folium
+shapely
