@@ -31,6 +31,6 @@ Thumbs.db
 *.pdf
 
 # Logs
-*.log
-"transit_map.html" 
-transit_map.html 
+# *.log
+# "transit_map.html" 
+# transit_map.html 
